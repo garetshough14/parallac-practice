@@ -1,15 +1,22 @@
+
+#parallax_main {
+    background-image: url(../img/bike-1.jpg); 
+    opacity: .9;
+    background-position: top center ;
+}
 #parallax_1 {
-    background-image: url(../img/art-1.jpg);
-    ima
-    /* height: 500px; */
+    background-image: url(../img/2-walls.jpg);
+    background-position: center center ;
+    opacity: .9;
     background-position: top center ;
 }
 #parallax_2 {
-    background-image: url(../img/walking-2.jpg);
+    background-image: url(../img/grafitti.jpg);
     background-position: center center ;
+    opacity: .9;
 }
 #parallax_3 {
-    background-image: url(../img/grafitti.jpg);
+    background-image: url(../img/2-walls.jpg);
     background-position: center center ;
 }
 .parallax_effect {
@@ -32,6 +39,13 @@
 .button{
     border-radius: 20px;
 }
-/* p{
-    
-} */
+
+footer{
+    background-color: #F29559;
+    height: 500px;
+}
+footer i{
+    background-color: #F29559; 
+    padding: 1.2rem;
+}
+footer

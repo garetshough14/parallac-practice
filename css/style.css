@@ -1,3 +1,4 @@
+
 #parallax_main {
     background-image: url(../img/bike-1.jpg); 
     opacity: .9;
@@ -38,8 +39,13 @@
 .button{
     border-radius: 20px;
 }
-h1{
-    
-/* p{
-    
-} */
+
+footer{
+    background-color: #F29559;
+    height: 500px;
+}
+footer i{
+    background-color: #F29559; 
+    padding: 1.2rem;
+}
+footer

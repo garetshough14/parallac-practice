@@ -1,4 +1,7 @@
 
+#nav_bar{
+    background-color: #F29559;
+}
 #parallax_main {
     background-image: url(../img/bike-1.jpg); 
     opacity: .9;
